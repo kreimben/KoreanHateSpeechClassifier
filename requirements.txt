@@ -1,0 +1,12 @@
+numpy
+jupyter
+gensim
+pandas
+pyarrow
+soynlp
+torch
+torchtext
+lightning
+torch-lr-finder
+scikit-learn
+icecream
