@@ -11,3 +11,4 @@ torch-lr-finder
 scikit-learn
 icecream
 optuna
+transformers
